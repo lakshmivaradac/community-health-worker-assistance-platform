@@ -1,8 +1,8 @@
-# Community Health Worker Assistance Platform
+# # Community Health Worker Assistance Platform
 
-## About the Project
+## Project Overview
 
-The Community Health Worker Assistance Platform is a proposed software solution designed to support Community Health Workers (CHWs) in managing patient information, accessing health-related resources, tracking activities, receiving notifications, and generating reports.
+The Community Health Worker Assistance Platform is a proposed software system designed to support Community Health Workers (CHWs) in managing patient information, accessing health-related resources, tracking activities, receiving notifications, and generating reports.
 
 ## Objectives
 
@@ -15,13 +15,13 @@ The Community Health Worker Assistance Platform is a proposed software solution 
 
 ## Proposed Modules
 
-1. User Authentication
-2. CHW Dashboard
-3. Patient Management
-4. Health Assistance
-5. Activity Tracking
-6. Notifications and Reminders
-7. Reports
+- User Authentication
+- CHW Dashboard
+- Patient Management
+- Health Assistance
+- Activity Tracking
+- Notifications and Reminders
+- Reports
 
 ## Project Status
 
@@ -29,9 +29,13 @@ Currently in the planning and design phase.
 
 ## Future Work
 
-- UI development
-- Database implementation
+- UI design and development
+- Database design and implementation
 - Backend development
 - Module integration
 - Testing
 - Deployment
+
+## Team
+
+This project is being developed as part of the academic project work.
